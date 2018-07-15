@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name udaciMealsApp
+ * @name newModuleQuizApp
  * @description
- * # udaciMealsApp
+ * # newModuleQuizApp
  *
  * Main module of the application.
  */
 angular
-  .module('udaciMealsApp', ['legoBricks']);
+  .module('newModuleQuizApp', ['legoBricks']);
 
 angular
   .module('legoBricks', []);
